@@ -44,7 +44,7 @@ your_activity.java
 
 ```
 
-##Source
+## Source
 This is a class made from Volleys Networked class and hdodenhof CircleImage view. I simply merged the two to create a single image class with both functions. 
 See https://github.com/hdodenhof/CircleImageView 
 and
