@@ -46,11 +46,14 @@ your_activity.java
 
 ## Source
 This is a class made from Volleys Networked class and hdodenhof CircleImage view. I simply merged the two to create a single image class with both functions. 
+
 See https://github.com/hdodenhof/CircleImageView 
+
 and
+
 https://google.github.io/volley/
 
-for information and credeit
+for information and credit
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
